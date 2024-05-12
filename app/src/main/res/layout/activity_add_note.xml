@@ -11,7 +11,7 @@
         android:layout_width="272dp"
         android:layout_height="50dp"
         android:layout_alignParentTop="true"
-        android:text="Add Notes"
+        android:text="Ad Notes"
         android:textColor="@color/orange"
         android:textSize="34sp"
         tools:layout_editor_absoluteX="16dp"
